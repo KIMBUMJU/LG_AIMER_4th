@@ -1,2 +1,2 @@
 # LG_AIMER_4th
-LG AIMER 예선 프로젝트
+등수: 1000명중 70등
